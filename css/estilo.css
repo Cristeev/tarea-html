@@ -1,0 +1,10 @@
+#boton{
+	width: 340px;
+	height: 120px;
+	background-color: #455D8C;
+	color: white;
+	font-size: 30px;
+	font-style: bold;
+	border-radius: 25px;
+	font-family: cursive;
+}
